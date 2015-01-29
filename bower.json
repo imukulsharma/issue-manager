@@ -1,0 +1,22 @@
+{
+  "name": "issue-manager",
+  "version": "0.1.0",
+  "homepage": "https://github.com/imukulsharma/issue-manager",
+  "authors": [
+    "Mukul Sharma <mukuls@fractalanalytics.com>"
+  ],
+  "description": "Issue Manager",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "ASL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/resources/public/",
+    "test",
+    "tests"
+  ]
+}
